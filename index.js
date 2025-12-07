@@ -8,3 +8,5 @@ function getHeroTitle(){
 
 
 console.log("HERO TITLE:", getHeroTitle());
+console.log("THEME COLOR: ", THEME_COLOR);
+
