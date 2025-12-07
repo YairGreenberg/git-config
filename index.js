@@ -3,7 +3,7 @@ import { THEME_COLOR } from "./config.js";
 
 
 function getHeroTitle(){
-    return "Welcome";
+    return "Welcome,Agents";
 }
 
 
